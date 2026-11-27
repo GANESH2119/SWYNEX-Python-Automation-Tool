@@ -2,12 +2,16 @@ SWYNEX – Automated Excel Report Generator
 
 Python-Based Business Intelligence & Reporting Automation System
 
-"Python" (https://img.shields.io/badge/Python-3.x-blue?logo=python)
-"Pandas" (https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-"Excel" (https://img.shields.io/badge/Excel-Automation-217346?logo=microsoftexcel)
-"Plotly" (https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly)
-"ReportLab" (https://img.shields.io/badge/ReportLab-PDF%20Generation-red)
-"Status" (https://img.shields.io/badge/Project-Completed-success)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+<img src="https://img.shields.io/badge/Pandas-Data_Analysis-150458?logo=pandas" />
+<img src="https://img.shields.io/badge/Excel-Automation-217346?logo=microsoftexcel" />
+<img src="https://img.shields.io/badge/Plotly-Visualization-3F4F75?logo=plotly" />
+<img src="https://img.shields.io/badge/ReportLab-PDF_Generation-red" />
+<img src="https://img.shields.io/badge/Project-Completed-success" />
+
+</p>
 
 📌 Project Overview
 
