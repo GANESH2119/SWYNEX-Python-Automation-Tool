@@ -1,0 +1,27 @@
+{
+    "total_revenue": 413200.0,
+    "total_orders": 15,
+    "total_quantity": 44,
+    "average_order_value": 27546.67,
+    "top_product": "Laptop",
+    "product_sales": {
+        "Laptop": 300000,
+        "Monitor": 75000,
+        "Headphones": 17500,
+        "Keyboard": 13200,
+        "Mouse": 7500
+    },
+    "category_sales": {
+        "Electronics": 375000,
+        "Accessories": 38200
+    },
+    "region_sales": {
+        "South": 186000,
+        "North": 116100,
+        "East": 64100,
+        "West": 47000
+    },
+    "monthly_sales": {
+        "2026-01": 413200
+    }
+}

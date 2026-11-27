@@ -1,0 +1,5 @@
+ pip install pandas openpyxl matplotlib reportlab
+ pandas
+ openpyxl
+ plotly
+ reportlab
